@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a developer of <a href="https://mystery-logger.com">なぞログ</a>
-
 <p align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=KEY60228&count_private=true&show_icons=true&theme=tokyonight" />
